@@ -1,0 +1,14 @@
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\bin\Debug\net8.0\Assignment01-OOP-C-Sharp.exe
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\bin\Debug\net8.0\Assignment01-OOP-C-Sharp.deps.json
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\bin\Debug\net8.0\Assignment01-OOP-C-Sharp.runtimeconfig.json
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\bin\Debug\net8.0\Assignment01-OOP-C-Sharp.dll
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\bin\Debug\net8.0\Assignment01-OOP-C-Sharp.pdb
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\Assignment01-OOP-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\Assignment01-OOP-C-Sharp.AssemblyInfoInputs.cache
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\Assignment01-OOP-C-Sharp.AssemblyInfo.cs
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\Assignment01-OOP-C-Sharp.csproj.CoreCompileInputs.cache
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\Assignment01-OOP-C-Sharp.dll
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\refint\Assignment01-OOP-C-Sharp.dll
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\Assignment01-OOP-C-Sharp.pdb
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\Assignment01-OOP-C-Sharp.genruntimeconfig.cache
+D:\route course\backend\C#\Assignment01-OOP-C-Sharp\Assignment01-OOP-C-Sharp\obj\Debug\net8.0\ref\Assignment01-OOP-C-Sharp.dll
