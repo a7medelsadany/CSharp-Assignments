@@ -1,0 +1,14 @@
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\C-Sharp-OOP02.GeneratedMSBuildEditorConfig.editorconfig
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\C-Sharp-OOP02.AssemblyInfoInputs.cache
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\C-Sharp-OOP02.AssemblyInfo.cs
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\C-Sharp-OOP02.csproj.CoreCompileInputs.cache
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\bin\Debug\net8.0\C-Sharp-OOP02.exe
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\bin\Debug\net8.0\C-Sharp-OOP02.deps.json
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\bin\Debug\net8.0\C-Sharp-OOP02.runtimeconfig.json
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\bin\Debug\net8.0\C-Sharp-OOP02.dll
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\bin\Debug\net8.0\C-Sharp-OOP02.pdb
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\C-Sharp-OOP02.dll
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\refint\C-Sharp-OOP02.dll
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\C-Sharp-OOP02.pdb
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\C-Sharp-OOP02.genruntimeconfig.cache
+D:\route course\backend\C#\C-Sharp-OOP02\C-Sharp-OOP02\obj\Debug\net8.0\ref\C-Sharp-OOP02.dll
