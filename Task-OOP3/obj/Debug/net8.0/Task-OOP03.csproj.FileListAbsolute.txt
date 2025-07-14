@@ -1,0 +1,14 @@
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\bin\Debug\net8.0\Task-OOP03.exe
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\bin\Debug\net8.0\Task-OOP03.deps.json
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\bin\Debug\net8.0\Task-OOP03.runtimeconfig.json
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\bin\Debug\net8.0\Task-OOP03.dll
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\bin\Debug\net8.0\Task-OOP03.pdb
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\Task-OOP03.GeneratedMSBuildEditorConfig.editorconfig
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\Task-OOP03.AssemblyInfoInputs.cache
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\Task-OOP03.AssemblyInfo.cs
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\Task-OOP03.csproj.CoreCompileInputs.cache
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\Task-OOP03.dll
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\refint\Task-OOP03.dll
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\Task-OOP03.pdb
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\Task-OOP03.genruntimeconfig.cache
+D:\route course\backend\C#\Task-OOP03\Task-OOP03\obj\Debug\net8.0\ref\Task-OOP03.dll
