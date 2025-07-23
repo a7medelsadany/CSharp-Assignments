@@ -1,0 +1,14 @@
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\bin\Debug\net8.0\Assignment-OOP05.exe
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\bin\Debug\net8.0\Assignment-OOP05.deps.json
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\bin\Debug\net8.0\Assignment-OOP05.runtimeconfig.json
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\bin\Debug\net8.0\Assignment-OOP05.dll
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\bin\Debug\net8.0\Assignment-OOP05.pdb
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\Assignment-OOP05.GeneratedMSBuildEditorConfig.editorconfig
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\Assignment-OOP05.AssemblyInfoInputs.cache
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\Assignment-OOP05.AssemblyInfo.cs
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\Assignment-OOP05.csproj.CoreCompileInputs.cache
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\Assignment-OOP05.dll
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\refint\Assignment-OOP05.dll
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\Assignment-OOP05.pdb
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\Assignment-OOP05.genruntimeconfig.cache
+D:\route course\backend\C#\Assignment-OOP05\Assignment-OOP05\obj\Debug\net8.0\ref\Assignment-OOP05.dll
